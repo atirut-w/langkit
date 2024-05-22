@@ -1,4 +1,4 @@
-add_library(lpbuilder STATIC
+add_library(langkit STATIC
     "src/lexer.cpp"
 )
-target_include_directories(lpbuilder PUBLIC include)
+target_include_directories(langkit PUBLIC include)
