@@ -1,6 +1,6 @@
 #pragma once
 
-namespace LPBuilder
+namespace LangKit
 {
     class Lexer
     {
